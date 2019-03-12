@@ -1,1 +1,2 @@
 file one
+Now it is somewhat changed
